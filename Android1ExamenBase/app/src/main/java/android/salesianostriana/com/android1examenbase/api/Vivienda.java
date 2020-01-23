@@ -5,6 +5,9 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * Clase modelo para la oferta de una vivienda
+ */
 @Data @NoArgsConstructor @AllArgsConstructor
 @Builder
 public class Vivienda {
